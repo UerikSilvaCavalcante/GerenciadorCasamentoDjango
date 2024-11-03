@@ -1,0 +1,5 @@
+venv
+core/__pycache__
+noivos/__pycache__
+convidados/__pycache__
+migrations
